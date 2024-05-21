@@ -1,0 +1,7 @@
+.crimson-text-regular {
+    font-family: "Crimson Text", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+.conteudo-principal { display: flex;
+    flex-direction: column;
